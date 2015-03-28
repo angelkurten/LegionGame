@@ -1,0 +1,19 @@
+{
+    "name": "AngelKurten/LegionGame",
+    "description": "LegionGame",
+    "license": "MIT",
+    "keywords": ["Legion"],
+    "authors": [
+        {
+            "name": "Angel Kurten",
+            "email": "angelkurten@hotmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "AngelKurten\\LegionGame\\": "src"
+        }
+    }
+}
